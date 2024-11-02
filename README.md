@@ -25,7 +25,7 @@ pkg install python or pkg install python2
 
 cd storage
 
-git clone https://github.com/Utiw2/grassTermux.git
+git clone https://github.com/cryptoCarl21/grassTermux.git
 
 cd getgrass
 
